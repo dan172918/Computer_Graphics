@@ -1,0 +1,6 @@
+﻿  glm.c
+C:\Users\danie\Desktop\406261688_HW2\HW2\glm.c(1487,23): warning C4477: 'fprintf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'GLfloat *'
+  gltb.c
+  smooth.c
+  正在產生程式碼...
+  HW2.vcxproj -> C:\Users\danie\Desktop\406261688_HW2\Debug\HW2.exe
